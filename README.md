@@ -5,6 +5,7 @@
 To use this module in your project, you can install it by running:
 ```bash
 go get github.com/mhaatha/go-say-hello@v1.0.0
+go mod tidy
 ```
 
 ### Usage
