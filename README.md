@@ -29,3 +29,6 @@ Hello
 
 ## Versioning
 This project uses [SemVer](https://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/mhaatha/go-say-hello/tags)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/mhaatha/go-say-hello/blob/main/LICENSE) file for details.
