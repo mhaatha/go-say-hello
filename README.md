@@ -4,7 +4,7 @@
 ### Installation
 To use this module in your project, you can install it by running:
 ```bash
-go get github.com/mhaatha/go-say-hello@v1.0.0
+go get github.com/mhaatha/go-say-hello@v1.0.1
 ```
 
 ### Usage
@@ -29,4 +29,3 @@ Hello
 
 ### Versioning
 This project uses [SemVer](https://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/mhaatha/go-say-hello/tags)
-
